@@ -1,0 +1,122 @@
+{
+	"__comment": "Designed by Danchuc with Cubik Studio - https://cubik.studio",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/iron_trapdoor",
+		"texture": "block/iron_trapdoor"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box7",
+			"from": [ 0, 13, 0 ],
+			"to": [ 16, 16, 3 ],
+			"faces": {
+				"down": { "uv": [ 0, 13, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 13, 16, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 3, 3 ], "texture": "#texture" },
+				"east": { "uv": [ 13, 0, 16, 3 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box8",
+			"from": [ 0, 13, 13 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 13, 16, 16 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 13, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 13, 16, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 13, 13, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 13, 3, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box9",
+			"from": [ 0, 13, 3 ],
+			"to": [ 3, 16, 13 ],
+			"faces": {
+				"down": { "uv": [ 0, 3, 3, 13 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 3, 3, 13 ], "texture": "#texture" },
+				"north": { "uv": [ 13, 13, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 13, 3, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box10",
+			"from": [ 6, 13, 3 ],
+			"to": [ 10, 16, 13 ],
+			"faces": {
+				"down": { "uv": [ 6, 3, 10, 13 ], "texture": "#texture" },
+				"up": { "uv": [ 6, 3, 10, 13 ], "texture": "#texture" },
+				"north": { "uv": [ 6, 13, 10, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 6, 13, 10, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box11",
+			"from": [ 13, 13, 3 ],
+			"to": [ 16, 16, 13 ],
+			"faces": {
+				"down": { "uv": [ 13, 3, 16, 13 ], "texture": "#texture" },
+				"up": { "uv": [ 13, 3, 16, 13 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 13, 3, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 13, 13, 16, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box12",
+			"from": [ 3, 13, 6.0201 ],
+			"to": [ 13, 16, 10.0201 ],
+			"faces": {
+				"down": { "uv": [ 3, 5.979897, 13, 9.979897 ], "texture": "#texture" },
+				"up": { "uv": [ 3, 6.020103, 13, 10.0201 ], "texture": "#texture" },
+				"north": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 3, 13, 13, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 6.020103, 13, 10.0201, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 5.979897, 13, 9.979897, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 4, 3.52 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 75, 45, 0 ],
+			"translation":  [ 0, 4, 3.52 ],
+			"scale":  [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"translation":  [ 0, 4.1739, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"translation":  [ 0, 4.1739, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"translation":  [ 0, 4, 0 ],
+			"scale":  [ 0.625, 0.625, 0.625 ]
+		},
+		"ground": {
+			"translation":  [ 0, 3, 0 ],
+			"scale":  [ 0.25, 0.25, 0.25 ]
+		},
+		"fixed": {
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

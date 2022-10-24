@@ -1,0 +1,22 @@
+{
+  "textureSize": [64,64],
+  "models": 
+  [
+    {
+      "id": "larm_alex",
+      "model": "drowned_alex-arm_left.jpm",
+      "part": "left_arm",  
+      "attach": "true", 
+      "translate": [-1, -2, -2],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "rarm_alex",
+      "model": "drowned_alex-arm_right.jpm",
+      "part": "right_arm", 
+      "attach": "true", 
+      "translate": [-2, -2, -2],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

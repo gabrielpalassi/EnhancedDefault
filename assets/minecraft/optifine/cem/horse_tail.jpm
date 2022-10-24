@@ -1,0 +1,36 @@
+{
+  "textureSize": [64,64],
+  "submodels": [
+    {
+      "comment": "tail1",
+      "translate": [0,0,0],
+      "rotate": [-5,0,0],
+      "boxes": [
+        {
+          "coordinates": [-1,-2,2,2,7,2],
+          "uvDown": [46,37,48,39],
+          "uvUp": [46,37,48,39],
+          "uvNorth": [44,40,46,47],
+          "uvSouth": [48,40,50,47],
+          "uvWest": [46,40,48,47],
+          "uvEast": [42,40,44,47]
+        }
+      ]
+    },{
+      "comment": "tail2",
+      "translate": [-1.5,4,1],
+      "rotate": [-10,0,0],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,3,7,3],
+          "uvDown": [49,37,51,40],
+          "uvUp": [46,37,49,40],
+          "uvNorth": [45,47,48,54],
+          "uvSouth": [51,47,54,54],
+          "uvWest": [48,47,51,54],
+          "uvEast": [42,47,45,54]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "textureSize": [64, 64],
+  "models": 
+  [
+    {
+      "id": "leg1",
+      "model": "horse_leg1.jpm",
+      "part": "front_left_leg", 
+      "attach": "false", 
+      "translate": [-1, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "leg2",
+      "model": "horse_leg1.jpm",
+      "part": "front_right_leg", 
+      "attach": "false", 
+      "translate": [2, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "leg3",
+      "model": "horse_leg2.jpm",
+      "part": "back_left_leg", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "leg4",
+      "model": "horse_leg2.jpm",
+      "part": "back_right_leg", 
+      "attach": "false", 
+      "translate": [1, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "mane",
+      "model": "horse_mane.jpm",
+      "part": "mane", 
+      "attach": "true", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "tail",
+      "model": "horse_tail.jpm",
+      "part": "tail", 
+      "attach": "false", 
+      "translate": [0, 0.5, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "head",
+      "model": "donkey_head.jpm",
+      "part": "head", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "muzzle",
+      "model": "donkey_muzzle.jpm",
+      "part": "mouth", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "bit1",
+      "model": "donkey_bit.jpm",
+      "part": "left_bit", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "bit2",
+      "model": "donkey_bit2.jpm",
+      "part": "right_bit", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "reign1",
+      "model": "donkey_reign.jpm",
+      "part": "left_rein", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },{
+      "id": "reign2",
+      "model": "donkey_reign2.jpm",
+      "part": "right_rein", 
+      "attach": "false", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

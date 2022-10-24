@@ -1,0 +1,22 @@
+{
+  "textureSize": [0,0],
+  "models": 
+  [
+    {
+      "id": "Head",
+      "model": "_.jpm",
+      "part": "head",  
+      "attach": "true", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "id": "Body",
+      "model": "_.jpm",
+      "part": "body", 
+      "attach": "true", 
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

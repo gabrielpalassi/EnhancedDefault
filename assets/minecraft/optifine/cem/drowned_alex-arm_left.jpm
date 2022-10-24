@@ -1,0 +1,35 @@
+{
+  "textureSize": [64,64],
+  "submodels": [
+    
+    {
+      "comment": "arm1",
+      "translate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,3,12,4],
+          "uvDown": [7,32,10,36],
+          "uvUp": [4,36,7,32],
+          "uvNorth": [4,36,7,48],
+          "uvSouth": [11,36,14,48],
+          "uvWest": [7,36,11,48],
+          "uvEast": [0,36,4,48]
+        }
+      ]
+    },{
+      "comment": "arm2",
+      "translate": [-0.1,-0.1,-0.1],
+      "boxes": [
+        {
+          "coordinates": [0,0,0,3.2,12.2,4.2],
+          "uvDown": [39,32,42,36],
+          "uvUp": [36,36,39,32],
+          "uvNorth": [36,36,39,48],
+          "uvSouth": [43,36,46,48],
+          "uvWest": [39,36,43,48],
+          "uvEast": [32,36,36,48]
+        }
+      ]
+    }
+  ]
+}

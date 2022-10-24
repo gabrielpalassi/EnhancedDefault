@@ -1,0 +1,60 @@
+{
+    "variants": {
+        "distance=1": [
+				{ "model": "block/spruce_leaves" },
+				{ "model": "block/spruce_leaves1" },
+				{ "model": "block/spruce_leaves", "weight": 60 },
+            { "model": "block/spruce_leaves_center", "weight": 3 },
+            { "model": "block/spruce_leaves_nw", "weight": 3 },
+			{ "model": "block/spruce_leaves_ne", "weight": 3 }
+				],
+        "distance=2": [
+				{ "model": "block/spruce_leaves" },
+				{ "model": "block/spruce_leaves1" },
+				{ "model": "block/spruce_leaves", "weight": 60 },
+            { "model": "block/spruce_leaves_center", "weight": 3 },
+            { "model": "block/spruce_leaves_nw", "weight": 3 },
+			{ "model": "block/spruce_leaves_ne", "weight": 3 }
+				],
+        "distance=3": [
+				{ "model": "block/spruce_leaves" },
+				{ "model": "block/spruce_leaves1" },
+				{ "model": "block/spruce_leaves", "weight": 60 },
+            { "model": "block/spruce_leaves_center", "weight": 3 },
+            { "model": "block/spruce_leaves_nw", "weight": 3 },
+			{ "model": "block/spruce_leaves_ne", "weight": 3 }
+				],
+        "distance=4": [
+				{ "model": "block/spruce_leaves" },
+				{ "model": "block/spruce_leaves1" },
+				{ "model": "block/spruce_leaves", "weight": 60 },
+            { "model": "block/spruce_leaves_center", "weight": 3 },
+            { "model": "block/spruce_leaves_nw", "weight": 3 },
+			{ "model": "block/spruce_leaves_ne", "weight": 3 }
+				],
+        "distance=5": [
+				{ "model": "block/spruce_leaves" },
+				{ "model": "block/spruce_leaves1" },
+				{ "model": "block/spruce_leaves", "weight": 60 },
+            { "model": "block/spruce_leaves_center", "weight": 3 },
+            { "model": "block/spruce_leaves_nw", "weight": 3 },
+			{ "model": "block/spruce_leaves_ne", "weight": 3 }
+				],
+        "distance=6": [
+				{ "model": "block/spruce_leaves" },
+				{ "model": "block/spruce_leaves1" },
+				{ "model": "block/spruce_leaves", "weight": 60 },
+            { "model": "block/spruce_leaves_center", "weight": 3 },
+            { "model": "block/spruce_leaves_nw", "weight": 3 },
+			{ "model": "block/spruce_leaves_ne", "weight": 3 }
+				],
+        "distance=7": [
+				{ "model": "block/spruce_leaves" },
+				{ "model": "block/spruce_leaves1" },
+				{ "model": "block/spruce_leaves", "weight": 60 },
+            { "model": "block/spruce_leaves_center", "weight": 3 },
+            { "model": "block/spruce_leaves_nw", "weight": 3 },
+			{ "model": "block/spruce_leaves_ne", "weight": 3 }
+				]
+    }
+}
