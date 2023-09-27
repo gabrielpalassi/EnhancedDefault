@@ -2,7 +2,9 @@
 
 # <img src="https://user-images.githubusercontent.com/83798084/197426472-e6270792-252a-4266-8e5b-c7f30c0b5a15.png" width="50"> Enhanced Default
 
-Enhanced Default does what the name indicates, instead of completly revamping the style of the game it maintains the vanilla look and adds some revamped textures, as well as some 3D ones. Note that this texture pack requires <a href="https://optifine.net/downloads">OptiFine</a> to work properly, so be sure to install it.
+Enhanced Default does what the name indicates, instead of completly revamping the style of the game it maintains the vanilla look and adds some revamped textures, as well as some 3D ones. 
+
+Note that this texture pack requires <a href="https://optifine.net/downloads">OptiFine</a> to work properly, so be sure to have it installed.
 
 This texture pack is best paired with Sildur's <a href="https://sildurs-shaders.github.io/downloads/">Enhanced Default</a> Shaders.
 
